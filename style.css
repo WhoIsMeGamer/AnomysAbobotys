@@ -1,5 +1,6 @@
 body {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Knewave", system-ui;
+  font-style: normal;
   border: 7px dashed white;
   border-radius: 25px;
   background-color: black;
@@ -20,6 +21,10 @@ nav a {
   color: white;
 }
 
-h1, nav, h2{
+h1, nav {
+  text-align: center;
+}
+
+h2 {
   text-align: center;
 }
